@@ -1,4 +1,4 @@
-# Leveraging AI for Hazard (Typhoon) Risk Assesment in the most vulnerable region of The Philippines
+# Leveraging AI for Hazard (Typhoon) Risk Assesment in the most vulnerable areas of South-East Asia
 Introduction
 
 The Philippines, a Southeast Asian archipelago, is highly vulnerable to natural hazards, particularly typhoons. These powerful storms can cause significant damage to infrastructure, loss of life, and economic disruption. Traditional hazard risk assessment methods, while valuable, often face limitations in terms of data availability, computational complexity, and the ability to accurately capture the intricate interactions between various factors. In recent years, artificial intelligence (AI) has emerged as a promising tool to address these challenges and enhance the accuracy and efficiency of hazard risk assessments in the Philippines.
