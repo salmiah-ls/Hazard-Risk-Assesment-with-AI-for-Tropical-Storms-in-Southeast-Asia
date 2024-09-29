@@ -3,8 +3,17 @@
 
 Southeast Asian countries are particularly vulnerable to tropical cyclones due to their geographic location and climatic conditions. The region is situated along the Pacific Ocean, a major breeding ground for these storms. The warm ocean waters provide the energy for typhoons to form and intensify. Additionally, the region's mountainous terrain and extensive coastlines can exacerbate the impacts of these storms, leading to flooding, landslides, and coastal erosion. These factors, combined with dense populations in many areas, make Southeast Asia highly susceptible to the devastating effects of tropical cyclones.
 
-### Some Destructive Typhoons in Southeast Asia:
-- __Typhoon Yolanda__, also known as __Super Typhoon Haiyan__, was a devastating storm that made landfall in the Philippines in November 2013. The storm's destructive force was unprecedented, causing widespread damage and loss of life. With its intense winds and storm surge, Haiyan caused massive flooding, landslides, and infrastructure collapse. Millions of people were affected, and the storm's impact was felt throughout Southeast Asia. The typhoon's devastation highlighted the region's vulnerability to extreme weather events and the urgent need for disaster preparedness and response measures.
-- __Typhoon Goni__, also known as __Super Typhoon Rolly__, was one of the strongest typhoons ever recorded. It made landfall in the Philippines in November 2020, causing widespread devastation. The storm brought intense winds, heavy rainfall, and a storm surge that led to massive flooding and landslides. Millions of people were affected, and the typhoon's impact was felt throughout Southeast Asia. Goni's destructive power highlighted the region's vulnerability to extreme weather events and the urgent need for disaster preparedness and response measures.
-- __Typhoon Yagi__, the strongest storm to hit Asia this year, 2024, has unleashed destruction across Southeast Asia, affecting over 20 million people in Vietnam, the Philippines, Laos, Thailand, and Myanmar. Severe flooding and landslides have already resulted in nearly 200 casualties and displaced hundreds of thousands, with numbers expected to rise as heavy rains persist and the risk of further flooding remains high.
+### 3 Deadliest Super Typhoons ever hit Southeast Asia:
+- __Typhoon Haiyan__, also known as __Super Typhoon Yolanda__
+  * November 2013
+  * Casualities: 6,352 total
+  * Link to [Typhoon Haiyan](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
+- __Typhoon Rai__, also known as __Super Typhoon Odette__
+  * December 2021
+  * Casualities: 410 total
+  * Link to [Typhoon Rai](https://en.wikipedia.org/wiki/Typhoon_Rai)
+- __Typhoon Yagi__, also known as __Severe Tropical Storm Enteng__
+  * September 2024
+  * Casualities: 815
+  * Link to [Typhoon Yagi](https://en.wikipedia.org/wiki/Typhoon_Yagi)
   
