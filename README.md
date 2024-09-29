@@ -7,7 +7,8 @@ Southeast Asian countries are particularly vulnerable to tropical cyclones due t
 - __Typhoon Haiyan__, also known as __Super Typhoon Yolanda__
   * November 2013
   * Casualities: 6,352 total
-  * Path <img src="https://en.wikipedia.org/wiki/File:Haiyan_2013_path.png"></img>
+  * Path: <br />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Haiyan_2013_path.png/320px-Haiyan_2013_path.png"></img>
   * Link to [Typhoon Haiyan](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
 - __Typhoon Rai__, also known as __Super Typhoon Odette__
   * December 2021
