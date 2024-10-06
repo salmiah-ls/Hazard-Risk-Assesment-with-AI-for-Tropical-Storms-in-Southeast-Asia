@@ -7,8 +7,8 @@ For this prototype, I use 2 deadliest typhoon that ever hit Southeast Asia as st
 
 ### Typhoon Haiyan
 __Typhoon Haiyan__, also known as __Super Typhoon Yolanda__, was one of the most powerful tropical cyclones ever recorded. Upon making landfall, Haiyan devastated portions of Southeast Asia, particularly the Philippines.<br />
-* Path:<br />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Haiyan_2013_path.png" width="320"></img>
+ * Path:<br />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Haiyan_2013_path.png" width="320"></img>
   * Formed-Dissipated: November 2013
   * Fatalities: 6,352 total
   * Injuries: 28,781
