@@ -3,10 +3,10 @@
 
 Southeast Asian countries are particularly vulnerable to tropical cyclones due to their geographic location and climatic conditions. The region is situated along the Pacific Ocean, a major breeding ground for these storms. The warm ocean waters provide the energy for typhoons to form and intensify. Additionally, the region's mountainous terrain and extensive coastlines can exacerbate the impacts of these storms, leading to flooding, landslides, and coastal erosion. These factors, combined with dense populations in many areas, make Southeast Asia highly susceptible to the devastating effects of tropical cyclones.
 
-For this prototype, I use 2 deadliest typhoon that ever hit Southeast Asia as study cases:
+For this prototype, I use 2 deadliest typhoon that ever hit Southeast Asia as case study:
 
 ### Typhoon Haiyan
-__Typhoon Haiyan__, also known as __Super Typhoon Yolanda__, was one of the most powerful tropical cyclones ever recorded. Upon making landfall, Haiyan devastated portions of Southeast Asia, particularly the Philippines.<br />
+__Typhoon Haiyan__, also known as __Super Typhoon Yolanda__ <br />
  * Path:<br />
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Haiyan_2013_path.png" width="320"></img>
   * Formed-Dissipated: November 2013
@@ -20,6 +20,7 @@ __Typhoon Haiyan__, also known as __Super Typhoon Yolanda__, was one of the most
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
   * Link to [UN-OCHA report](https://www.unocha.org/publications/report/philippines/philippines-super-typhoon-haiyan-yolanda-retrospect-humanitarian-impact-and-response-achievements-humanitarian-country-team-26-october-2023)
   * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2013306N07162)
+For this case study, I will focus on the 3 most affected regions: Region VI (Western Visayas), Region VII (Central Visayas), and Region VIII (Eastern Visayas)
 
 ### Typhoon Yagi
 __Typhoon Yagi__, also known as __Severe Tropical Storm Enteng__
@@ -36,4 +37,5 @@ __Typhoon Yagi__, also known as __Severe Tropical Storm Enteng__
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Yagi)
   * Link to [UN-OCHA report](https://www.unocha.org/publications/report/viet-nam/viet-nam-typhoon-yagi-and-floods-situation-update-no-3-14-september-2024)
   * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2024246N14125)
+For this case study, I will focus on the 3 most affected regions: Northeast, Red River Delta, Northwest.
   
