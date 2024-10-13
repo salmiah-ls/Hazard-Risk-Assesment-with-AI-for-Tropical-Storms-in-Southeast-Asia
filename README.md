@@ -6,36 +6,54 @@ Southeast Asian countries are particularly vulnerable to tropical cyclones due t
 For this prototype, I use 2 deadliest typhoon that ever hit Southeast Asia as case studies:
 
 ### Typhoon Haiyan
-__Typhoon Haiyan__, also known as __Super Typhoon Yolanda__ <br />
+__Typhoon Haiyan / Super Typhoon Yolanda__, Philippines - November 2013 <br />
  * Path:<br />
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Haiyan_2013_path.png" width="320"></img>
-  * Formed-Dissipated: November 2013
   * Fatalities: 6,352 total
   * Injuries: 28,781
   * Missing: 1,071
   * Damage: $2.86 billion (2013 USD)
-  * Areas affected (Southeast Asia): Philippines, Vietnam
   * Highest wind (10-minutes sustained): 230 km/h (145 mph)
   * Highest wind (1-minutes sustained): 315 km/h (195 mph)
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
-  * Link to [UN-OCHA report](https://www.unocha.org/publications/report/philippines/philippines-super-typhoon-haiyan-yolanda-retrospect-humanitarian-impact-and-response-achievements-humanitarian-country-team-26-october-2023)
-  * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2013306N07162)
-For this case study, I will focus on the 3 most affected regions: Region VI (Western Visayas), Region VII (Central Visayas), and Region VIII (Eastern Visayas)
+  * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2013306N07162)<br /><br />
+__Affected Areas:__
+  * Region IV-B (Mimaropa):
+    1. Northern Palawan
+  * Region VI (Western Visayas):
+    1. Aklan
+    2. Antique
+    3. Capiz
+    4. Iloilo
+  * Region VII (Central Visayas):
+    1. Northern Cebu
+  * Region VIII (Eastern Visayas):
+    1. Biliran
+    2. Leyte
+       * Tacloban City
+    3. Southern Leyte
+    4. Eastern Samar
+    5. Samar    
 
-### Typhoon Yagi
-__Typhoon Yagi__, also known as __Severe Tropical Storm Enteng__
+### Typhoon Yagi<br />
+__Typhoon Yagi / Severe Tropical Storm Enteng__, Vietnam - September 2024<br />
   * Path: <br />
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Yagi_2024_path.png" width="320"></img>
-  * Formed-Dissipated: September 2024
   * Fatalities: 830
   * Injuries: 2,270
   * Missing: 131
   * Damage: >$16.5 billion (2024 USD)
-  * Areas affected (Southeast Asia): Vietnam (North), Myanmar, Laos, Thailand, Philippines
   * Highest wind (10-minutes sustained): 195 km/h (120 mph)
   * Highest wind (1-minutes sustained): 260 km/h (160 mph)
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Yagi)
-  * Link to [UN-OCHA report](https://www.unocha.org/publications/report/viet-nam/viet-nam-typhoon-yagi-and-floods-situation-update-no-3-14-september-2024)
-  * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2024246N14125)
-For this case study, I will focus on the 3 most affected regions: Northeast, Red River Delta, Northwest.
+  * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2024246N14125)<br /><br />
+__Affected Areas:__
+  * Northeast:
+    1. Quảng Ninh
+  * Red River Delta:
+    1. Hải Phòng
+  * Northwest:
+    1. Lào Cai
+   
+
   
