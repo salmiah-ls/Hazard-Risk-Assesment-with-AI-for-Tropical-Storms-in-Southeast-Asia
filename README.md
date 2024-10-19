@@ -19,7 +19,7 @@ __Typhoon Haiyan / Super Typhoon Yolanda__, Philippines - November 2013 <br />
   * Highest wind (1-minutes sustained): 315 km/h (195 mph)
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
   * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2013306N07162)
-  * [UN-OCHA Report(.pdf)](https://www.unocha.org/sites/unocha/files/dms/Documents/Report%20-%20Inter-Agency%20Humanitarian%20Evaluation%20of%20the%20Response%20to%20Typhoon%20Haiyan%20in%20the%20Philippines%20%281%29.pdf)
+  * Affected Population: [UN-OCHA Report(.pdf), Page: 16](https://www.unocha.org/sites/unocha/files/dms/Documents/Report%20-%20Inter-Agency%20Humanitarian%20Evaluation%20of%20the%20Response%20to%20Typhoon%20Haiyan%20in%20the%20Philippines%20%281%29.pdf)
   * Damage [UN-WOMEN Report(.pdf)](https://wrd.unwomen.org/sites/default/files/2022-02/Typhoon%20Yolanda%20%28Haiyan%29%202013%20the%20Philippines%2C%20Post-Disaster%20Needs%20Assessment_0.pdf)<br /><br />
 __Affected Areas:__
   * Region IV-B (Mimaropa):
