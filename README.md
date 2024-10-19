@@ -1,7 +1,9 @@
 ## Hazard Risk Assesment with AI for Tropical Cyclones in Southeast Asia
 ### Introduction
 
-Southeast Asian countries are particularly vulnerable to tropical cyclones due to their geographic location and climatic conditions. The region is situated along the Pacific Ocean, a major breeding ground for these storms. The warm ocean waters provide the energy for typhoons to form and intensify. Additionally, the region's mountainous terrain and extensive coastlines can exacerbate the impacts of these storms, leading to flooding, landslides, and coastal erosion. These factors, combined with dense populations in many areas, make Southeast Asia highly susceptible to the devastating effects of tropical cyclones.
+Tropical cyclones, also known as typhoons or hurricanes, are powerful natural phenomena that can cause significant damage and loss of life in Southeast Asia. These storms are characterized by their intense winds, heavy rainfall, and storm surges, which can lead to flooding, landslides, and other natural disasters. As Southeast Asia is a region vulnerable to tropical cyclones, understanding and assessing the risks associated with these storms are crucial for effective disaster management and mitigation.
+
+This prototype will delve into the topic of hazard risk assessment for tropical cyclones in Southeast Asia, examining the factors contributing to the region's vulnerability, the potential impacts of these storms, and the strategies that can be implemented to reduce the risks and enhance resilience.
 
 For this prototype, I use 2 deadliest typhoon that ever hit Southeast Asia as case studies:
 
