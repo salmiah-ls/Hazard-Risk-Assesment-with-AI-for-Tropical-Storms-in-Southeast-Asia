@@ -51,7 +51,8 @@ __Typhoon Yagi / Severe Tropical Storm Enteng__, Vietnam - September 2024<br />
   * Highest wind (1-minutes sustained): 260 km/h (160 mph)
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Yagi)
   * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2024246N14125)
-  * [UN Report (.pdf)](https://vietnam.un.org/sites/default/files/2024-09/VNM_HumanitarianNeedsPriorities_Final_English.pdf)<br /><br />
+  * [UN Report (.pdf)](https://vietnam.un.org/sites/default/files/2024-09/VNM_HumanitarianNeedsPriorities_Final_English.pdf)
+  * [UN OCHA report (.pdf)(https://www.unocha.org/publications/map/viet-nam/typhoon-yagi-southwest-monsoon-8-16-september-2024)]<br /><br />
 __Affected Areas:__
   * Northeast:
     1. Quảng Ninh
