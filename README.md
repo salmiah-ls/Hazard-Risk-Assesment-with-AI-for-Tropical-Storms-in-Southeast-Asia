@@ -22,8 +22,7 @@ __Typhoon Haiyan / Super Typhoon Yolanda__, Philippines - November 2013 <br />
   * Affected Population: [UN-OCHA Report(.pdf), Page: 16](https://www.unocha.org/sites/unocha/files/dms/Documents/Report%20-%20Inter-Agency%20Humanitarian%20Evaluation%20of%20the%20Response%20to%20Typhoon%20Haiyan%20in%20the%20Philippines%20%281%29.pdf)
   * Damage [UN-WOMEN Report(.pdf)](https://wrd.unwomen.org/sites/default/files/2022-02/Typhoon%20Yolanda%20%28Haiyan%29%202013%20the%20Philippines%2C%20Post-Disaster%20Needs%20Assessment_0.pdf)<br /><br />
 __Affected Areas:__
-  * Region IV-B (Mimaropa):
-    1. Northern Palawan
+As per the UN-OCHA report, eight regions were affected by the disaster. However, for the purpose of this analysis, we will focus on the three regions with the most significant impact: Western Visayas, Central Visayas, and Eastern Visayas..
   * Region VI (Western Visayas):
     1. Aklan
     2. Antique
@@ -51,15 +50,14 @@ __Typhoon Yagi / Severe Tropical Storm Enteng__, Vietnam - September 2024<br />
   * Highest wind (1-minutes sustained): 260 km/h (160 mph)
   * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Yagi)
   * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2024246N14125)
-  * [UN Report (.pdf)](https://vietnam.un.org/sites/default/files/2024-09/VNM_HumanitarianNeedsPriorities_Final_English.pdf)
+  * [UN Report (.pdf), Page: 3](https://vietnam.un.org/sites/default/files/2024-09/VNM_HumanitarianNeedsPriorities_Final_English.pdf)
   * [UN OCHA report (.pdf)(https://www.unocha.org/publications/map/viet-nam/typhoon-yagi-southwest-monsoon-8-16-september-2024)]<br /><br />
 __Affected Areas:__
+According to the UN report, three regions—Northeast, Northwest, and Red River Delta—were severely impacted by the typhoon. However, the Northwest region primarily experienced damage from monsoon-induced floods rather than direct typhoon effects. Therefore, this analysis will focus on the two regions most directly affected by the typhoon: Northeast and Red River Delta.
   * Northeast:
     1. Quảng Ninh
   * Red River Delta:
     1. Hải Phòng
-  * Northwest:
-    1. Lào Cai
    
 
   
