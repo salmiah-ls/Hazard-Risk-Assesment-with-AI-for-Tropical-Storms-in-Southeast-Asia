@@ -1,61 +1,11 @@
 ## Hazard Risk Assesment with AI for Tro[ical Storms in Southeast Asia
 ### Introduction
 
+<img src="https://reliefweb.int/sites/default/files/styles/large/public/previews/a0/e5/a0e513b5-96f4-3d93-b26f-8c47eef653c6.png.webp?1969892-1-0"></img>
+
 Southeast Asia is a region extremely vulnerable to tropical storms, locally known as typhoons. Its geographical position within the typhoon belt of the Western Pacific makes it highly susceptible to these powerful storms. Furthermore, the intensifying impacts of climate change exacerbate this vulnerability. Rising sea levels increase the risk of storm surges, while warmer ocean temperatures provide more energy for storms to develop and intensify, leading to more frequent and severe events.
 
 The region experiences numerous tropical storms annually, ranging from minor disturbances to powerful typhoons. One of the deadliest events in recent history was Typhoon Haiyan, which devastated Central Philippines in 2013. This catastrophic storm resulted in a staggering loss of life, with over 6,352 fatalities and 28,781 injuries. The economic toll was equally immense, with estimated damages exceeding USD 2.99 billion[1]. More recently, Typhoon Yagi impacted the coastal areas of Vietnam in September 2023, causing significant damage. This disaster led to the loss of 844 lives, injured 2,279 individuals, and resulted in economic losses exceeding USD 16.9 million[2].
-
-### Typhoon Haiyan
-__Typhoon Haiyan / Super Typhoon Yolanda__, Philippines - November 2013 <br />
- * Path:<br />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Haiyan_2013_path.png" width="320"></img>
-  * Fatalities: 6,352 total
-  * Injuries: 28,781
-  * Missing: 1,071
-  * Damage: $2.86 billion (2013 USD)
-  * Highest wind (10-minutes sustained): 230 km/h (145 mph)
-  * Highest wind (1-minutes sustained): 315 km/h (195 mph)
-  * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Haiyan)
-  * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2013306N07162)
-  * Affected Population: [UN-OCHA Report(.pdf), Page: 16](https://www.unocha.org/sites/unocha/files/dms/Documents/Report%20-%20Inter-Agency%20Humanitarian%20Evaluation%20of%20the%20Response%20to%20Typhoon%20Haiyan%20in%20the%20Philippines%20%281%29.pdf)
-  * Damage [UN-WOMEN Report(.pdf)](https://wrd.unwomen.org/sites/default/files/2022-02/Typhoon%20Yolanda%20%28Haiyan%29%202013%20the%20Philippines%2C%20Post-Disaster%20Needs%20Assessment_0.pdf)<br /><br />
-__Affected Areas:__
-As per the UN-OCHA report, eight regions were affected by the disaster. However, for the purpose of this analysis, we will focus on the three regions with the most significant impact: Western Visayas, Central Visayas, and Eastern Visayas..
-  * Region VI (Western Visayas):
-    1. Aklan
-    2. Antique
-    3. Capiz
-    4. Iloilo
-  * Region VII (Central Visayas):
-    1. Northern Cebu
-  * Region VIII (Eastern Visayas):
-    1. Biliran
-    2. Leyte
-       * Tacloban City
-    3. Southern Leyte
-    4. Eastern Samar
-    5. Samar    
-
-### Typhoon Yagi<br />
-__Typhoon Yagi / Severe Tropical Storm Enteng__, Vietnam - September 2024<br />
-  * Path: <br />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Yagi_2024_path.png" width="320"></img>
-  * Fatalities: 830
-  * Injuries: 2,270
-  * Missing: 131
-  * Damage: >$16.5 billion (2024 USD)
-  * Highest wind (10-minutes sustained): 195 km/h (120 mph)
-  * Highest wind (1-minutes sustained): 260 km/h (160 mph)
-  * Link to [Wikipedia article](https://en.wikipedia.org/wiki/Typhoon_Yagi)
-  * Link to [IBTrACS data](https://ncics.org/ibtracs/index.php?name=v04r01-2024246N14125)
-  * [UN Report (.pdf), Page: 3](https://vietnam.un.org/sites/default/files/2024-09/VNM_HumanitarianNeedsPriorities_Final_English.pdf)
-  * [UN OCHA report (.pdf)(https://www.unocha.org/publications/map/viet-nam/typhoon-yagi-southwest-monsoon-8-16-september-2024)]<br /><br />
-__Affected Areas:__
-According to the UN report, three regions—Northeast, Northwest, and Red River Delta—were severely impacted by the typhoon. However, the Northwest region primarily experienced damage from monsoon-induced floods rather than direct typhoon effects. Therefore, this analysis will focus on the two regions most directly affected by the typhoon: Northeast and Red River Delta.
-  * Northeast:
-    1. Quảng Ninh
-  * Red River Delta:
-    1. Hải Phòng
    
 
   
