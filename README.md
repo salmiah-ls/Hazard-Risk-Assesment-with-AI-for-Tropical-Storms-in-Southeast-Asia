@@ -1,11 +1,9 @@
-## Hazard Risk Assesment with AI for Typhoons in Southeast Asia
+## Hazard Risk Assesment with AI for Tro[ical Storms in Southeast Asia
 ### Introduction
 
-Tropical cyclones, also known as typhoons or hurricanes, are powerful natural phenomena that can cause significant damage and loss of life in Southeast Asia. These storms are characterized by their intense winds, heavy rainfall, and storm surges, which can lead to flooding, landslides, and other natural disasters. As Southeast Asia is a region vulnerable to tropical cyclones, understanding and assessing the risks associated with these storms are crucial for effective disaster management and mitigation.
+Southeast Asia is a region extremely vulnerable to tropical storms, locally known as typhoons. Its geographical position within the typhoon belt of the Western Pacific makes it highly susceptible to these powerful storms. Furthermore, the intensifying impacts of climate change exacerbate this vulnerability. Rising sea levels increase the risk of storm surges, while warmer ocean temperatures provide more energy for storms to develop and intensify, leading to more frequent and severe events.
 
-This prototype will delve into the topic of hazard risk assessment for tropical cyclones in Southeast Asia, examining the factors contributing to the region's vulnerability, the potential impacts of these storms, and the strategies that can be implemented to reduce the risks and enhance resilience.
-
-For this prototype, I use 2 deadliest typhoon that ever hit Southeast Asia as case studies:
+The region experiences numerous tropical storms annually, ranging from minor disturbances to powerful typhoons. One of the deadliest events in recent history was Typhoon Haiyan, which devastated Central Philippines in 2013. This catastrophic storm resulted in a staggering loss of life, with over 6,352 fatalities and 28,781 injuries. The economic toll was equally immense, with estimated damages exceeding USD 2.99 billion[1]. More recently, Typhoon Yagi impacted the coastal areas of Vietnam in September 2023, causing significant damage. This disaster led to the loss of 844 lives, injured 2,279 individuals, and resulted in economic losses exceeding USD 16.9 million[2].
 
 ### Typhoon Haiyan
 __Typhoon Haiyan / Super Typhoon Yolanda__, Philippines - November 2013 <br />
