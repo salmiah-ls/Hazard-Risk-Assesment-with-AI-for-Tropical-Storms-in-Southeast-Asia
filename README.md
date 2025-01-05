@@ -1,4 +1,4 @@
-## Hazard Risk Assesment with AI for Tropical Cyclones in Southeast Asia
+## Hazard Risk Assesment with AI for Typhoons in Southeast Asia
 ### Introduction
 
 Tropical cyclones, also known as typhoons or hurricanes, are powerful natural phenomena that can cause significant damage and loss of life in Southeast Asia. These storms are characterized by their intense winds, heavy rainfall, and storm surges, which can lead to flooding, landslides, and other natural disasters. As Southeast Asia is a region vulnerable to tropical cyclones, understanding and assessing the risks associated with these storms are crucial for effective disaster management and mitigation.
