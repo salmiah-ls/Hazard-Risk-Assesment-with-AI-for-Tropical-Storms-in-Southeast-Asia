@@ -10,7 +10,7 @@ The region experiences numerous tropical storms annually, ranging from minor dis
 This repository consists of 3 parts:
 - [Mapping Typhoons in Southeast Asia](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Mapping-Typhoons)
 - [Typhoon Haiyan, November 2013: Central Philippines](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Haiyan-Philippines-2013)
-- [Typhoon Yagi, September 2024: Coastal Areas of Vietnam](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Yagi-Vietnam-2024)
+- [Typhoon Yagi, September 2024: Northern Vietnam](https://github.com/salmiah-ls/Hazard-Risk-Assesment-with-AI-for-Tropical-Storms-in-Southeast-Asia/tree/main/Yagi-Vietnam-2024)
 
 Link to [website version](https://sites.google.com/view/salmiah-ls/home#h.em82epcfyhb8).
 
